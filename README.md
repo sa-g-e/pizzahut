@@ -1,5 +1,5 @@
 # pizzahut
-The algorithm that pizza hut uses to generate the free cheese pizza codes.
+The algorithm that pizza hut (only in nz) uses to generate the free cheese pizza codes.
 
 
 1. Start by generating a random number within the range of 1000 to 9999.
