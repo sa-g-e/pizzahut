@@ -1,6 +1,5 @@
 # pizzahut
-The algorithm that pizza hut (only in nz) uses to generate the free cheese pizza codes. (min 8$ spend though 🙄)
-
+The algorithm that pizza hut (only in nz) uses to generate the free cheese pizza codes. (min 8$ spend)
 
 1. Start by generating a random number within the range of 1000 to 9999.
 2. Then check if the generated number is divisible by 3.
